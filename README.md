@@ -1,5 +1,7 @@
 # gatsby-starter-default
-The default Gatsby starter.
+
+
+A default Gatsby starter.
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
@@ -20,6 +22,10 @@ Then you can run it by:
 cd gatsby-example-site
 npm run develop
 ```
+
+## Demo
+
+[Gatsby Hello World](https://heuristic-borg-30e81e.netlify.com/)
 
 ## Deploy
 
